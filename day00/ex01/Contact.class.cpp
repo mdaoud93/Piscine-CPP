@@ -6,14 +6,14 @@
 /*   By: mdaoud <mdaoud@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/06/16 00:06:44 by mdaoud            #+#    #+#             */
-/*   Updated: 2020/06/16 00:22:15 by mdaoud           ###   ########.fr       */
+/*   Updated: 2020/06/16 03:21:09 by mdaoud           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "Contact.class.hpp"
 
 /*
-** Constructer / Destrocter
+** Constructor / Destructor
 */
 
 Contact::Contact(void){
