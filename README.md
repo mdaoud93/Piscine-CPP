@@ -11,3 +11,5 @@ projects and prepare you for future objectives and jobs.
 
 ### day00
 Namespace, class, member functions, stdio stream, initialization lists, static, const, and lots of basic stuff.
+### day01
+Memory allocation, References, Pointers to members, File streams.
